@@ -49,7 +49,7 @@ Skills: HTML / CSS
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with N/A 
 - 💬 Ask me about Website Development 
-- 📫 How to reach me: How to reach me: Contact at this link https://www.facebook.com/groups/touchtechn6ologybd 
+- 📫 How to reach me: How to reach me: Contact at this link https://www.facebook.com  
 - 😄 Pronouns: He, She, We,There. 
 - ⚡ Fun fact: N/A 
 
